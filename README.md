@@ -32,7 +32,7 @@ Welcome to my GitHub, where backend magic meets data muscle.
 |--------------------------|--------------------------|-------------------------|
 | Python, SQL, Git         | Informatica PIM, IDQ, Reltio MDM, Airflow, Redis | FastAPI, Django, REST APIs, AWS (basic) |
 
-Bonus: I also dabble in **computer vision, machine learning pipelines,** and **data visualization** (because raw numbers deserve a good story 📊).
+Bonus: I also dabble in **computer vision, machine learning pipelines,** and **data visualization** (because raw numbers deserve a good story).
 
 ---
 
