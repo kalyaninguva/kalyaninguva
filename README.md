@@ -107,19 +107,6 @@ I don't do toy projects — everything I build aims for **scalability, reliabili
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalyaninguva&show_icons=true&theme=tokyonight&hide_title=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalyaninguva&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyaninguva&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 <p align="center">
